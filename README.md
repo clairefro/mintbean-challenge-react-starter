@@ -59,8 +59,8 @@ That's it! You're app is now publically demo-able at `https://<github-username>.
 ### Note
 By default, Github pages builds off `master` branch, so push any changes you want deployed there. You can run `yarn deploy` as often as you like. Be sure to deploy one last time at the end of the proejct period! 
 
+### Where's my page???
 If you can't find your Github Page, go to your repo > "Settings" > scroll to Github Pages section. 
 
------------------------------------------
 -----------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

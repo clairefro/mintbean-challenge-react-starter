@@ -18,8 +18,8 @@ Replace `<my-app>` with your new app name
 create-react-app <my-app> --template cra-template-mintbean-challenge-react-starter
 ```
 
-### Create new github repo for your project
-`cd` into your new project and push it to a new Github repo using `hub` 
+### Create a new Github repo 
+`cd` into your new project and push it to a new Github repo using `hub create` 
 (don't have `hub`? [install it](https://github.com/github/hub#installation) )
 ```
 git add .

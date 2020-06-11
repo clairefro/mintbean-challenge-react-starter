@@ -1,7 +1,7 @@
 {
   "name": "cra-template-mintbean-challenge-react-starter",
   "homepage": "http://clairefro.github.io/mintbean-challenge-react-starter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "template.json",
   "keywords": [
     "react",

@@ -39,7 +39,7 @@ Deploy your app at any time after setting up the following config.
 ```
 { 
   ...
-  "homepage": "https://<github-username>.io/<repo-name>/",
+  "homepage": "https://<github-username>.github.io/<repo-name>/",
   ...
 }
 ```
@@ -54,7 +54,7 @@ or if you use npm:
 npm run deploy
 ```
 
-That's it! You're app is now publically demo-able at `https://<github-username>.io/<repo-name>/`
+That's it! You're app is now publically demo-able at `https://<github-username>.github.io/<repo-name>/`
 
 ### Note
 By default, Github pages builds off `master` branch, so push any changes you want deployed there. You can run `yarn deploy` as often as you like. Be sure to deploy one last time at the end of the proejct period! 
